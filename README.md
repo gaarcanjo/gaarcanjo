@@ -1,6 +1,6 @@
 <div>
 
-## Olá Word! Eu sou a Gabriela Arcanjo 
+## Olá, World! Eu sou a Gabriela Arcanjo 
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas 
 - 📌Aprendendo sobre Front- And 
