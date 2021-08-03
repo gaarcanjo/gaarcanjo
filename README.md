@@ -2,6 +2,7 @@
 
 ## Olá, World! Eu sou a Gabriela Arcanjo 
 
+- 😉 Você pode me chamar de Gabi
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas 
 - 📌Aprendendo sobre Front- And 
 - 👌Pronomes: Ela/dela 
